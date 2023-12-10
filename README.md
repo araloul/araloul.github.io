@@ -1,32 +1,32 @@
 # Portafolio Adaptable (Responsive) con Bootstrap 5
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
-
-El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
-
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![image](https://github.com/araloul/araloul.github.io/assets/91640852/e184288b-d90b-43ed-acd4-77d92f153b88)
+
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![image](https://github.com/araloul/araloul.github.io/assets/91640852/df0249a2-59bf-468a-b270-a84d1147873f)
+
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![image](https://github.com/araloul/araloul.github.io/assets/91640852/990ca5f0-c6e8-4454-8e96-1bc1f44afd27)
+
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![image](https://github.com/araloul/araloul.github.io/assets/91640852/2b5475c8-0222-4e7e-872e-1f5623cacc71)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![image](https://github.com/araloul/araloul.github.io/assets/91640852/8646cd77-dacf-4f8a-bbbb-d03b0f2888a8)
+
 
 ## Tecnologías
 
