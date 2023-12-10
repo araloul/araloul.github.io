@@ -108,7 +108,16 @@ h1 {
   color: #615151;
  
 }
+.hero-inferior-imagen{
+  width: 500px;
+  height: 100px;
+}
 
+.hero-inferior-imagen img{
+  background-position: center bottom;
+  background-size: cover;
+  width: 100%;
+}
 /* Sobre mi */
 
 .sobre-mi {
@@ -186,14 +195,14 @@ h1 {
   padding-top: 60px;
   margin-bottom: 40px;
 }
-.proyecto .hello{
+/* .proyecto .hello{
   justify-content: space-between;
   height: 245px;
 }
 .proyecto .calculadora{
   justify-content: space-between;
   height: 245px;
-}
+} */
 
 
 .overlay {
